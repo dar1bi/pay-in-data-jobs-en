@@ -22,11 +22,7 @@
 - **Pay can be predicted only partly.** The best models reach R² of about 0.5 with a typical error of about 23%. Tuned boosting was the most accurate, but simple linear models were close. Default XGBoost overfitted strongly.
 - **Many people do not see their position.** Of people who earn at least 10% more than similar people, only 22% feel that they earn above the market, and 24% still feel that they earn below it.
 
-![Pay grows strongly with seniority](images/seniority.png)
-
 ![Company type and two skills are connected with higher pay](images/pay_factors.png)
-
-![Tuned boosting with tools predicts pay best, but simpler models are close](images/model_comparison.png)
 
 ## Data
 
