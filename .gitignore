@@ -6,3 +6,6 @@ data/
 
 .ipynb_checkpoints/
 .DS_Store
+
+# Charts for LinkedIn posts
+linkedin_charts/
